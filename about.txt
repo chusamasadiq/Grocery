@@ -11,15 +11,10 @@
 
     <!-- custom css file link  -->
     <link rel="stylesheet" href="css/style.css">
-
 </head>
 <body>
     
-Usama Sadiq
-
 <!-- header section starts  -->
-
-Usama Sadiq
 
 <header class="header">
 
